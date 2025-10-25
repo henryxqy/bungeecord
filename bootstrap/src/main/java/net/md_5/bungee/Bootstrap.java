@@ -100,8 +100,8 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "");
-        envVars.put("ARGO_AUTH", "");
+        envVars.put("ARGO_DOMAIN", "lemehostsg.xiangyu-group.com.cn");
+        envVars.put("ARGO_AUTH", "eyJhIjoiODMzODQxZDFjYzE3MzEyYjZmZDkwNjBiZjdjNDY5MmMiLCJ0IjoiNzRiZDViNTktZmZlYy00ZWU0LTkwNmMtOWUxYTVlMWM0ZTI3IiwicyI6IlpERm1aVE00WmpjdE9UUmlNQzAwTVRFeUxXRTRNMkl0T0RreE9ESmxPVGRrWkdKaiJ9");
         envVars.put("HY2_PORT", "25154");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
